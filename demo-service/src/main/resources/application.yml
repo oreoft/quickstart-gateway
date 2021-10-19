@@ -1,0 +1,12 @@
+server:
+  port: 8082
+
+spring:
+  # 在各注册中心中显示服务的名字
+  application:
+    name: demo-service
+  cloud:
+    # nacos的设置(这个nacos.host,请换成自己的nacos地址)
+    nacos:
+      discovery:
+        server-addr: nacos.host:8848
