@@ -9,7 +9,7 @@
 
 官方教程请点击 [Spring Cloud Gateway][1].
 
-关于本项目更多请看我的博客文章[Spring Cloud Gateway][2].
+关于本项目更多请看我的博客文章[项目中引入springcloud网关Gateway][2].
 
 
 [1]: https://spring.io/projects/spring-cloud-gateway
